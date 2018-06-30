@@ -56,7 +56,7 @@ Running the code is as easy as running the executable you created. No arguments 
 	
 Follow the onscreen instructions to play the game!
 	
-#Playing
+# Playing
 	
 Controlling the thread racers requires the use of the below controls
 	
