@@ -4,8 +4,10 @@
 The user can select an editor here to create their code
 
 
+
 ![](readmeImages/editorDemo.png)
 The user can code their optimized solution in the editor they chose
+
 
 
 ![](readmeImages/racingDemo.png)
@@ -15,16 +17,21 @@ Every "tick" in the game, the user's code is ran against the unoptimized code to
 a speedup value. 
 
 
+
 ![](readmeImages/mergesortCodeDemo.png)
 This is an example of a different implementation that will be faster.
+
 
 
 
 ![](readmeImages/mergesortDemo.png)
 Notice the much higher speedup value above from mergesort!
 
+
+
 ![](readmeImages/userWon.png)
 The game displays the winner once one thread racer has finished the lap around the track 
+
 
 
 # Game Description:
